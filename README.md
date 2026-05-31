@@ -111,8 +111,17 @@ logs/
 crawl_history.jsonl
 favorite_notice.jsonl
 ```
+## 页面展示
 
-这些是本地运行数据，不建议上传到 GitHub。
+> 以下截图展示了高校通知雷达的主要功能界面，包括通知聚合、关键词检索和可视化展示。
+
+### 1、首页
+
+<img src="./screenshots/home.png" width="800" alt="高校通知雷达首页">
+
+### 2、通知列表
+
+<img src="./screenshots/notice-list.png" width="800" alt="高校通知列表">
 
 ## 项目声明
 
