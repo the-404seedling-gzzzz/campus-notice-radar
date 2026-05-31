@@ -1,0 +1,14 @@
+target/
+.idea/
+*.iml
+out/
+
+logs/
+*.log
+
+crawl_history.jsonl
+favorite_notice.jsonl
+*_notice.json
+
+.mvn/wrapper/maven-wrapper.jar
+.DS_Store
